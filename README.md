@@ -1,16 +1,30 @@
-## Hi there 👋
+# Software Developer
 
-<!--
-**buddySerg/buddySerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on C#/.NET and desktop application development,
+with an emphasis on clean, maintainable, and well-structured software.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET / .NET Core
+- WPF
+- WpfUi
+- MS SQL
+- Entity Framework
+- Git / GitHub
+- Visual Studio
+
+## Focus
+
+- Desktop Application Development
+- Clean and Maintainable Code
+- Localization and Theming
+- Version Control and Structured Development Workflows
+
+## Projects
+
+Explore my pinned repositories for selected projects and examples of my work.
+
+## Contact
+
+📧 Email: info@steinkeweb.de  
+🔗 LinkedIn: www.linkedin.com/in/sergej-steinke
