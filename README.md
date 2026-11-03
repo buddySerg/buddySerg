@@ -1,16 +1,53 @@
-## Hi there 👋
+# Sergej Steinke
 
-<!--
-**buddySerg/buddySerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on C#/.NET and desktop application development, with an emphasis on clean, maintainable, and well-structured software.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET / .NET Framework
+- WPF
+- CommunityToolkit MVVM
+- Feature-Based MVVM Architecture
+- Dependency Injection
+- Entity Framework Core
+- MS SQL Server
+- WPF UI Integration
+- Git & GitHub
+- Visual Studio / Visual Studio Code
+
+## Interests
+
+- Desktop Application Development
+- Software Architecture
+- Clean Code
+- Feature-Based MVVM
+- Localization & Theming
+- Reusable Components
+
+- Structured Development Workflows
+
+## Featured Project
+
+Explore my pinned repositories for projects, architecture patterns, and development practices.
+
+### BuddyToolbox
+
+A modern .NET WPF application template featuring:
+
+- .Net & WPF
+- Feature-Based MVVM Architecture
+- Dependency Injection
+- Entity Framework Core
+- MS SQL Server
+- Localization
+- Theming
+- Structured Logging
+- User management
+- WPF UI Integration
+- Modular and Maintainable Design
+
+## Contact
+
+📧 info@steinkeweb.de
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sergej-steinke)
