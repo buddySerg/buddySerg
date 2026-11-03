@@ -23,14 +23,13 @@ Software developer focused on C#/.NET and desktop application development, with 
 - Feature-Based MVVM
 - Localization & Theming
 - Reusable Components
-
 - Structured Development Workflows
 
 ## Featured Project
 
 Explore my pinned repositories for projects, architecture patterns, and development practices.
 
-### BuddyToolbox
+### BuddyToolBox - .NET Developer Template
 
 A modern .NET WPF application template featuring:
 
@@ -42,6 +41,7 @@ A modern .NET WPF application template featuring:
 - Localization
 - Theming
 - Structured Logging
+- Configuration Management
 - User management
 - WPF UI Integration
 - Modular and Maintainable Design
